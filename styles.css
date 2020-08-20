@@ -1,0 +1,88 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  color: #40514E;
+}
+p{
+  font-family: 'Mina', sans-serif;
+  font-size: 1.5em;
+  color: #2d4059;
+}
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: 'Cedarville Cursive', cursive;
+  font-size: 4em;
+  color: #2d4059;
+}
+
+h2 {
+  font-family: 'Mina', sans-serif;
+  color: #66BFBF;
+}
+
+h3 {
+  font-family: 'Mina', sans-serif;
+  color:  #11999E;
+}
+h4{
+  font-family: 'Mina', sans-serif;
+  color:  #11999E;
+  }
+hr {
+    border: dotted #11999E 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 50px auto;
+}
+a{
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+a:hover {
+  color: #EAF6F6;
+}
+.con {
+  background-color: skyblue;
+  padding-top: 70px;
+}
+.middle-container{
+  position: relative;
+}
+.bot {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.top {
+  position: absolute;
+  right: 300px;
+  top: 25px;
+}
+.skill-row{
+  margin: 100px auto 100px auto;
+  text-align: left;
+  width: 50rem;
+}
+.ps{
+    float: left;
+    width: 15rem;
+    height: 10rem;
+    margin-right: 30px;
+}
+.g{
+    float: right;
+    width: 15rem;
+    height: 10rem;
+}
+.v{
+  width: 15rem;
+  height: 10rem;
+}
+.m{
+  width: 15rem;
+  height: 10rem;
+}
