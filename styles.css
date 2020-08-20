@@ -54,7 +54,7 @@ a:hover {
 .bot {
   position: absolute;
   left: 300px;
-  bottom: 300px;
+  top: 300px;
 }
 
 .top {
